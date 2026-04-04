@@ -1,0 +1,8 @@
+__pycache__/
+archive/
+.omx/
+.claw-agents/
+.claw/
+# Claude Code local artifacts
+.claude/settings.local.json
+.claude/sessions/
